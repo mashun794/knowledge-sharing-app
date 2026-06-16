@@ -15,7 +15,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 1.自由記述で入力
 
-2.AIが5W1Hへ変換
+2.AIが5W1Hへ変換  
 *現在対応可能単語*
 
 *when: 昨日、今日、今週、先週*
