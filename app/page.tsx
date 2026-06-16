@@ -187,6 +187,7 @@ export default function Home() {
             }
             className="w-full border rounded p-2 bg-white text-black"
           >
+            {/*プルダウン形式でも選択可能に　随時タグとして追加も可能*/}
             <option value="">選択してください</option>
             <option value="今日">今日</option>
             <option value="昨日">昨日</option>
